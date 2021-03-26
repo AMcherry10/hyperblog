@@ -1,2 +1,3 @@
 adriana miranda colin
-curso de puyrba sobre git y github 
+curso de prueba sobre git y github 
+cambio del primer archivo 1 cambio.
